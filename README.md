@@ -4,6 +4,9 @@ Caderno criado através de IA para simular um ambiente de aprendizado para pesso
 ## Caderno no NotebookLM
 https://notebooklm.google.com/notebook/c1ab0e27-4ad2-400f-bc2b-62a5f0f746c3
 
+## Processo de Criação
+Através da ferramenta NotebookLM, colocando fontes de diversos formatos em sua aba Fontes, foi gerado um novo caderno.
+
 ## Objetivo
 Criar um ambiente de aprendizado sobre a Introdução do ramo do Direito e seus termos mais frequentes, focado também em como funciona um processo, para facilitar o entendimento desse tema para iniciantes dessa área.
 
