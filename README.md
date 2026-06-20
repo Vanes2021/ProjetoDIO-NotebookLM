@@ -131,7 +131,7 @@ O comportamento do autor é peça-chave para o bom andamento da causa:
 Lembre-se que o processo é uma **sequência lógica de atos** e cada etapa deve ser respeitada para que a decisão final seja justa e segura.
 
 ## Dificuldades Encontradas 
-Para a realização desse projeto, criado pela plataforma de estudos da DIO, foram necessários a busca por fontes seguras e corretas, além da criação de prompts adequados, conscisos e precisos, para que a ferramenta respondesse da melhor maneira possível o que foi perguntado.
+Para a realização desse projeto, criado pela plataforma de estudos da DIO, foram necessárias as buscas por fontes seguras e corretas, além da criação de prompts adequados, conscisos e precisos, para que a ferramenta respondesse da melhor maneira possível o que foi perguntado.
 
 ## Conjunto de Prompts reutilizáveis
 * Explique o que é Direito para uma pessoa que nunca estudou o assunto, utilizando exemplos do dia a dia e linguagem simples.
