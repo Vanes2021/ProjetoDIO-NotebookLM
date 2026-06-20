@@ -132,3 +132,11 @@ Lembre-se que o processo é uma **sequência lógica de atos** e cada etapa deve
 
 ## Dificuldades Encontradas 
 Para a realização desse projeto, criado pela plataforma de estudos da DIO, foram necessários a busca por fontes seguras e corretas, além da criação de prompts adequados, conscisos e precisos, para que a ferramenta respondesse da melhor maneira possível o que foi perguntado.
+
+## Conjunto de Prompts reutilizáveis
+* Explique o que é Direito para uma pessoa que nunca estudou o assunto, utilizando exemplos do dia a dia e linguagem simples.
+* Quais são as principais funções do Direito na sociedade? Explique como as leis ajudam na convivência entre as pessoas.
+* Explique a diferença entre Direito, Justiça, Lei e Moral de forma simples e com exemplos práticos.
+* Crie um glossário simples explicando os 20 termos jurídicos mais utilizados por advogados e tribunais.
+* Crie exemplos de conflitos comuns e explique como o Direito pode ajudar a resolvê-los.
+
